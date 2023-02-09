@@ -1,0 +1,36 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding:10px 0 0 0;
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#continer{
+    border-radius: 30px;
+    margin: auto;
+    width:900px;
+    height: 600px;
+    background: rgb(38,53,255);
+background: radial-gradient(circle, rgba(38,53,255,1) 15%, rgba(84,255,219,1) 96%);
+    padding: 30px;
+}
+.sec1{
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+    height:230px;
+    background-color: white;
+}
+.sec2{
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 420px;
+    margin-top: 57px;
+    width: 400px;
+    height:230px;
+    background-color: white;
+}
